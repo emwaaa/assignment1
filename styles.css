@@ -1,0 +1,30 @@
+.jumbotron {
+    background-image: url(cake2.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+  }
+
+  .headline {
+    padding: 200px;
+    font-family: 'Grand Hotel', cursive;
+    font-size: 200px
+  }
+
+  .logo{
+    height: 400px;
+  }
+
+  p{
+  font-size: 30px; 
+  }
+
+  a {
+    color: palevioletred;  
+    font-style: italic; 
+  }
+
+  img{
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+  }
